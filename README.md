@@ -1,5 +1,5 @@
 ## Este es mi GitHub
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <!--
 **pedrogmnzmr/pedrogmnzmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

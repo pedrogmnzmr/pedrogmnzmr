@@ -5,7 +5,9 @@
 <p align="left">Hola, soy Pedro Antonio Gimenez, estudiante de Administración de Sistemas Informáticos en Redes. Con experiencia en administración de servidores web (nginx, apache, docker), desarrollo frontend (JS, css, WP, bootstrap) y desarrollo backend (node, mysql, express). Y siempre con una visión de mejora constante para mi futuro profesional.</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/pedroantoniogimenez" height="30" alt="linkedin logo"  />
+<a href="https://www.linkedin.com/in/pedroantoniogimenez">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+</a>
 </div>
 
 ###

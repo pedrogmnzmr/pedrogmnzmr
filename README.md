@@ -19,8 +19,16 @@ I'm currently studying<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pedrogmnzmr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/adidasornike10">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=adidasornike10&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

@@ -91,7 +91,7 @@
 ###
 
 <p align = "center">
-<a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark" /></a> <a href = "https://github.com/pedrogmnzmr/porfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark" /></a> 
+<a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> <a href = "https://github.com/pedrogmnzmr/porfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> 
 s</p>
 
 ###
@@ -102,7 +102,7 @@ s</p>
 
 <div align="center">
   <a href="https://open.spotify.com/user/adidasornike10">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=adidasornike10&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=adidasornike10&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 

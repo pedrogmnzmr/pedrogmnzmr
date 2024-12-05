@@ -5,7 +5,7 @@
 <p align="left">Hola, soy Pedro Antonio Gimenez, estudiante de Administración de Sistemas Informáticos en Redes. Con experiencia en administración de servidores web (nginx, apache, docker), desarrollo frontend (JS, css, WP, bootstrap) y desarrollo backend (node, mysql, express). Y siempre con una visión de mejora constante para mi futuro profesional.</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/pedroantoniogimenez" height="30" alt="linkedin logo"  />
 </div>
 
 ###
@@ -91,7 +91,7 @@
 ###
 
 <p align = "center">
-<a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> <a href = "https://github.com/pedrogmnzmr/porfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> 
+<a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> <a href = "https://github.com/pedrogmnzmr/IAW"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> 
 </p>
 
 ###

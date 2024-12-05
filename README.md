@@ -2,7 +2,7 @@
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-###
+<p align="left">Hola soy Pedro Antonio Gimenez, estudiante de Administracion de Sistemas Informaticos en Red. Con experiencia en administracion de servidores web (nginx, apache, docker), desarrollo frontend (JS, css, WP, bootstrap) desarrollo backend (node, mysql, express). Y siempre con uns visión de mejora constante para mi futuro profesional. </p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -86,7 +86,17 @@
 
 ###
 
-<h2 align="left">Algo de lo que me inspira</h2>
+<h2 align="left">Mis proyectos</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=pedrogmnzmr" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<h2 align="left">Algo de lo que me inspira ahora</h2>
 
 ###
 
@@ -107,4 +117,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrogmnzmr&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

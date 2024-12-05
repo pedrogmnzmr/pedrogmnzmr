@@ -1,6 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 ## Este es mi GitHub
+
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 I'm currently studying<br>
@@ -22,8 +22,11 @@ I'm currently studying<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pedrogmnzmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrogmnzmr&icon=2&color=12)](https://visitcount.itsvg.in)

@@ -92,7 +92,7 @@
 
 <p align = "center">
 <a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> <a href = "https://github.com/pedrogmnzmr/porfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark&locale=es&hide_border=true&border_radius=29" /></a> 
-s</p>
+</p>
 
 ###
 

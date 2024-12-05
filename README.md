@@ -90,9 +90,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=pedrogmnzmr" alt="Layout with last medium posts"  />
-</div>
+<p align = "center">
+<a href = "https://github.com/pedrogmnzmr/SAD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=SAD&theme=dark" /></a> <a href = "https://github.com/pedrogmnzmr/porfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogmnzmr&repo=porfolio&theme=dark" /></a> 
+s</p>
 
 ###
 

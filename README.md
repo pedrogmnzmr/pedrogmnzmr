@@ -1,16 +1,16 @@
-<h2 align="left">Bienvenid@ a mi GitHub</h2>
+<h1 align="left">Bienvenid@ a mi GitHub</h1>
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
 ###
 
-<p align="left">Frameworks, Lenguajes, CMS's, DB's, Servidores, CI/CD, CLI's</p>
+<h2 align="left">Frameworks, Lenguajes, CMS's, DB's, Servidores, CI/CD, CLI's</h2>
 
 ###
 
@@ -74,18 +74,19 @@
 
 ###
 
-<p align="left">Mis estadísticas</p>
+<h2 align="left">Mis estadísticas</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrogmnzmr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&border_radius=29" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrogmnzmr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true&border_radius=29" height="141" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=pedrogmnzmr&locale=es&mode=weekly&theme=dark&hide_border=true&border_radius=29" height="141" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogmnzmr&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&border_radius=29" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogmnzmr&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&border_radius=29" height="141" alt="languages graph"  />
 </div>
 
 ###
 
+<h2 align="left">Algo de lo que me inspira</h2>
 
 ###
 

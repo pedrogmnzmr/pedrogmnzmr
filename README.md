@@ -2,7 +2,7 @@
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<p align="left">Hola, soy Pedro Antonio Gimenez, estudiante de Administración de Sistemas Informáticos en Redes. Con experiencia en administración de servidores web (nginx, apache, docker), desarrollo frontend (JS, css, WP, bootstrap) y desarrollo backend (node, mysql, express). Y siempre con una visión de mejora constante para mi futuro profesional.</p>
+<p align="left">Hola, soy Pedro Antonio Gimenez, estudiante de Administración de Sistemas Informáticos en Red. Con experiencia en administración de servidores web (nginx, apache, docker), desarrollo frontend (JS, css, WP, bootstrap) y desarrollo backend (node, mysql, express). Y siempre con una visión de mejora constante para mi futuro profesional.</p>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/pedroantoniogimenez">

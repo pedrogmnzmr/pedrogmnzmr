@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="31" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css/663399" height="31" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="31" alt="html5 logo"  />
   <img width="12" />
